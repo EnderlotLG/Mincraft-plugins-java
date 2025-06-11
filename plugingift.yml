@@ -1,0 +1,8 @@
+name: WelcomeGift
+version: 1.0
+main: com.ferchogs.welcomegift.WelcomeGift
+api-version: 1.16
+commands:
+  regalowelcome:
+    description: Recarga el plugin de regalo de bienvenida
+    usage: /regalowelcome reload
