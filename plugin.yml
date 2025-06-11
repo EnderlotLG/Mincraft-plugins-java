@@ -1,0 +1,8 @@
+name: StatsTracker
+version: 1.0
+main: com.ferchogs.statstracker.StatsTracker
+api-version: 1.16
+commands:
+  estadisticas:
+    description: Muestra tus estadísticas personales.
+    usage: /estadisticas
